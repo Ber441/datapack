@@ -1,0 +1,21 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone_slab"
+        },
+        {
+            "item": "minecraft:stone_slab"
+        },
+        {
+            "item": "minecraft:stone_slab"
+        },
+        {
+            "item": "minecraft:stone_slab"
+        }
+    ],
+    "result": {
+        "item": "minecraft:smooth_stone",
+        "count": 1
+    }
+}
